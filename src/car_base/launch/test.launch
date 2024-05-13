@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find car_base)/launch/ld.launch"/>
+
+</launch>

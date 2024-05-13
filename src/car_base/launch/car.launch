@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find car_base)/launch/car_base.launch"/>
+    <include file="$(find car_base)/launch/demo.launch"/>
+    <include file="$(find car_base)/launch/gmapping_slam.launch"/>
+    <!-- <include flie="$(find ldlidar)/launch/ld19.launch"/> -->
+</launch>

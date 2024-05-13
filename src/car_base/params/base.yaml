@@ -1,0 +1,4 @@
+odom_frame: "odom"
+baselink_frame: "base_footprint"
+port: "/dev/mycar"
+baudrate: 115200
